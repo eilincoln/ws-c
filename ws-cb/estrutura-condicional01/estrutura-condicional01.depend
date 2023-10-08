@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696803876 source:c:\ws-c\ws-cb\estrutura-condicional01\main.c
+	<stdio.h>
+	<stdlib.h>
+
