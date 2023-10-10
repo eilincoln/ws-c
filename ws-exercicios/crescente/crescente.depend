@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696978986 source:c:\ws-c\ws-exercicios\crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+
