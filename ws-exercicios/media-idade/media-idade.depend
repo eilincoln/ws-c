@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696979538 source:c:\ws-c\ws-exercicios\media-idade\main.c
+	<stdio.h>
+	<stdlib.h>
+
